@@ -1,4 +1,4 @@
-# O que faz o mockito?
+# O que faz o Mockito?
 O Mockito tira a dependência de elementos não relevantes em um determinado contexto, para que o teste possa ser realizado de maneira mais simples.
 
 //Para aprofundar - Pesquisar sobre BDDMockito
