@@ -15,8 +15,8 @@ public class ListaTest {
 
     @Test
     void adicionarItem() {
-        Mockito.when(letras.getFirst()).thenReturn("B");
+        Mockito.when(letras.get(0)).thenReturn("B");
 
-        Assertions.assertEquals("B", letras.getFirst());
+        Assertions.assertEquals("B", letras.get(0));
     }
 }
