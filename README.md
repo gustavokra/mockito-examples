@@ -232,7 +232,7 @@ public class Conta {
 }
 ```
 
-No InOrder, verificamos se os métodos forão chamados na ordem correta:
+No InOrder, verificamos se os métodos foram chamados na ordem correta:
 ```
 @ExtendWith(MockitoExtension.class)  
 public class ContaTest {  
